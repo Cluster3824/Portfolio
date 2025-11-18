@@ -11,15 +11,15 @@ const Experience = () => {
     },
     {
       title: 'Web Developer',
-      company: 'Freelance Projects',
-      period: '2023 - Present',
+      company: 'College Projects',
+      period: '2024 - Present',
       description: 'Developed responsive web applications using modern frameworks and technologies for various clients.',
-      achievements: ['Built 5+ responsive websites using React.js', 'Implemented RESTful APIs with Node.js', 'Optimized web performance and SEO']
+      achievements: ['Built 2+ responsive websites using React.js', 'Implemented RESTful APIs with Node.js', 'Optimized web performance and SEO']
     },
     {
       title: 'Linux System Administrator',
       company: 'Self-Learning',
-      period: '2023 - Present',
+      period: '2024 - Present',
       description: 'Gained hands-on experience with Linux systems, shell scripting, and package management across Ubuntu and Arch Linux distributions.',
       achievements: ['1+ year experience with Ubuntu and Arch Linux', 'Proficient in shell scripting and automation', 'System administration and package management']
     }

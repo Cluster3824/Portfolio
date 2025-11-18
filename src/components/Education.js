@@ -4,11 +4,11 @@ const Education = () => {
   const education = [
     {
       degree: 'B.Tech in Artificial Intelligence and Data Science',
-      institution: 'Engineering College',
+      institution: 'Sri Krishna College Of Engineering and Technology',
       location: 'Coimbatore',
-      period: '2022 - 2026',
+      period: '2023 - 2027',
       status: 'Third Year Student',
-      highlights: ['Specialization in AI & Data Science', 'Strong foundation in programming', 'Focus on Machine Learning and Neural Networks']
+      highlights: ['Specialization in AI & Data Science', 'Strong foundation in programming', 'Focus on Machine Learning and Web Development']
     }
   ];
 
@@ -16,7 +16,7 @@ const Education = () => {
     {
       name: 'Machine Learning Fundamentals',
       issuer: 'Self-Study',
-      year: '2024',
+      year: '2025',
       skills: ['PyTorch', 'TensorFlow', 'ML Algorithms']
     },
     {
@@ -28,13 +28,13 @@ const Education = () => {
     {
       name: 'Linux System Administration',
       issuer: 'Practical Experience',
-      year: '2023',
+      year: '2024',
       skills: ['Ubuntu', 'Arch Linux', 'Shell Scripting']
     },
     {
       name: 'Full Stack Development',
       issuer: 'Project-based Learning',
-      year: '2023',
+      year: '2025',
       skills: ['React.js', 'Node.js', 'RESTful APIs']
     }
   ];

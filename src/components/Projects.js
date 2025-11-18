@@ -6,23 +6,23 @@ const Projects = () => {
       title: 'Snake Game',
       description: 'Classic Snake game in C++ (SFML) with smooth gameplay, collision detection, and score tracking',
       tech: ['C++', 'SFML', 'Game Development'],
-      github: 'https://github.com/Cluster3824/snake-game',
+      github: 'https://github.com/Cluster3824/Snake_Game',
       demo: null,
-      image: 'https://via.placeholder.com/400x200/333333/ffffff?text=Snake+Game'
+      image: '/assets/images/1745073445648.jpg'
     },
     {
       title: 'HSN Code LLM Agent',
       description: 'AI-powered HSN Code Validation & Suggestion system using advanced LLM technologies for accurate tax code classification',
       tech: ['Google ADK', 'Ollama', 'LiteLLM', 'Pandas', 'Python'],
-      github: 'https://github.com/Cluster3824/hsn-code-agent',
+      github: 'https://github.com/Cluster3824/HSN_Agent',
       demo: null,
-      image: 'https://via.placeholder.com/400x200/1a73e8/ffffff?text=HSN+Code+Agent'
+      image: '/assets/images/1748533269378.jpg'
     },
     {
       title: 'PDF & CSV Reader',
       description: 'Intelligent file reader with data analysis capabilities, automated insights generation, and visualization features',
       tech: ['Python', 'Pandas', 'Data Analysis', 'Visualization'],
-      github: 'https://github.com/Cluster3824/pdf-csv-reader',
+      github: 'https://github.com/Cluster3824/LLM_agent',
       demo: null,
       image: 'https://via.placeholder.com/400x200/34a853/ffffff?text=PDF+CSV+Reader'
     },
@@ -30,9 +30,9 @@ const Projects = () => {
       title: 'Hybrid Research Agent',
       description: 'Advanced chatbot with real-time information retrieval from multiple sources, powered by LLM reasoning and API integration',
       tech: ['LangChain', 'Python', 'APIs', 'LLM', 'Web Scraping'],
-      github: 'https://github.com/Cluster3824/hybrid-research-agent',
+      github: 'https://github.com/Cluster3824/Hybrid_agent',
       demo: null,
-      image: 'https://via.placeholder.com/400x200/ea4335/ffffff?text=Research+Agent'
+      image: '/assets/images/1756573238992.jpg'
     }
   ];
 

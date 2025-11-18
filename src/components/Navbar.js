@@ -11,13 +11,13 @@ const Navbar = () => {
         <div className="nav-container">
           <div className="nav-logo">Rohith R</div>
           <ul className="nav-menu">
-            <li><a onClick={() => scrollToSection('home')}>Home</a></li>
-            <li><a onClick={() => scrollToSection('about')}>About</a></li>
-            <li><a onClick={() => scrollToSection('skills')}>Skills</a></li>
-            <li><a onClick={() => scrollToSection('projects')}>Projects</a></li>
-            <li><a onClick={() => scrollToSection('experience')}>Experience</a></li>
-            <li><a onClick={() => scrollToSection('education')}>Education</a></li>
-            <li><a onClick={() => scrollToSection('contact')}>Contact</a></li>
+            <li><a href="#home" onClick={(e) => { e.preventDefault(); scrollToSection('home'); }}>Home</a></li>
+            <li><a href="#about" onClick={(e) => { e.preventDefault(); scrollToSection('about'); }}>About</a></li>
+            <li><a href="#skills" onClick={(e) => { e.preventDefault(); scrollToSection('skills'); }}>Skills</a></li>
+            <li><a href="#projects" onClick={(e) => { e.preventDefault(); scrollToSection('projects'); }}>Projects</a></li>
+            <li><a href="#experience" onClick={(e) => { e.preventDefault(); scrollToSection('experience'); }}>Experience</a></li>
+            <li><a href="#education" onClick={(e) => { e.preventDefault(); scrollToSection('education'); }}>Education</a></li>
+            <li><a href="#contact" onClick={(e) => { e.preventDefault(); scrollToSection('contact'); }}>Contact</a></li>
           </ul>
         </div>
       </div>
