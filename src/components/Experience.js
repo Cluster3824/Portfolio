@@ -21,7 +21,7 @@ const Experience = () => {
       company: 'Self-Learning',
       period: '2024 - Present',
       description: 'Gained hands-on experience with Linux systems, shell scripting, and package management across Ubuntu and Arch Linux distributions.',
-      achievements: ['1+ year experience with Ubuntu and Arch Linux', 'Proficient in shell scripting and automation', 'System administration and package management']
+      achievements: ['2+ year experience with Ubuntu and Arch Linux', 'Proficient in shell scripting and automation', 'System administration and package management']
     }
   ];
 

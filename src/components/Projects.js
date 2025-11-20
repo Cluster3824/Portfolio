@@ -19,12 +19,12 @@ const Projects = () => {
       image: '/assets/images/1748533269378.jpg'
     },
     {
-      title: 'PDF & CSV Reader',
-      description: 'Intelligent file reader with data analysis capabilities, automated insights generation, and visualization features',
-      tech: ['Python', 'Pandas', 'Data Analysis', 'Visualization'],
-      github: 'https://github.com/Cluster3824/LLM_agent',
+      title: 'ArchVault - System Log Analyzer',
+      description: 'Advanced system log analyzer for Arch Linux with CLI and GUI interfaces.',
+      tech: ['Arch Linux' , 'Cmake' , 'journalctl', 'C++' ],
+      github: 'https://github.com/Cluster3824/Arch_Logs',
       demo: null,
-      image: 'https://via.placeholder.com/400x200/34a853/ffffff?text=PDF+CSV+Reader'
+      image: '/assets/images/Screenshot_2025-11-20_20.43.34.png'
     },
     {
       title: 'Hybrid Research Agent',
