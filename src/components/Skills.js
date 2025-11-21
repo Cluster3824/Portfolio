@@ -25,10 +25,6 @@ const Skills = () => {
     {
       title: 'LLM Agent Development',
       skills: ['Hugging Face', 'Unsloth', 'Ollama', 'Gradio', 'LangChain', 'LangGraph', 'Google ADK']
-    },
-    {
-      title: 'Basic Game Development',
-      skills: ['C++', 'SFML' , 'Unreal Engine', 'Unity']
     }
   ];
 

@@ -18,6 +18,7 @@ const Navbar = () => {
             <li><a href="#experience" onClick={(e) => { e.preventDefault(); scrollToSection('experience'); }}>Experience</a></li>
             <li><a href="#education" onClick={(e) => { e.preventDefault(); scrollToSection('education'); }}>Education</a></li>
             <li><a href="#contact" onClick={(e) => { e.preventDefault(); scrollToSection('contact'); }}>Contact</a></li>
+            <li><a href="/assets/documents/Resume.pdf" download="Rohith_R_Resume.pdf" className="resume-download">Resume</a></li>
           </ul>
         </div>
       </div>

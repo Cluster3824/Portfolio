@@ -5,7 +5,7 @@ const Resume = () => {
 
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = '/resume.pdf';
+    link.href = '/assets/documents/Resume.pdf';
     link.download = 'Rohith_R_Resume.pdf';
     document.body.appendChild(link);
     link.click();
@@ -19,7 +19,7 @@ const Resume = () => {
   return (
     <section id="resume" className="resume">
       <div className="container">
-        <h2>Resume</h2>
+        <h2>Download Resume</h2>
         
         <div className="resume-actions">
           <button onClick={handleDownload} className="btn primary download-btn">
