@@ -11,8 +11,8 @@ const Skills = () => {
       skills: ['React.js', 'Node.js', 'HTML5', 'CSS']
     },
     {
-      title: 'Database & APIs',
-      skills: ['MySQL', 'RESTful APIs']
+      title: 'Cloud Computing basics',
+      skills: ['AWS', 'Azure', 'GCP', 'Docker', 'Ubuntu']
     },
     {
       title: 'AI & ML',
@@ -25,6 +25,10 @@ const Skills = () => {
     {
       title: 'LLM Agent Development',
       skills: ['Hugging Face', 'Unsloth', 'Ollama', 'Gradio', 'LangChain', 'LangGraph', 'Google ADK']
+    },
+    {
+      title: 'Basic Game Development',
+      skills: ['C++', 'SFML' , 'Unreal Engine', 'Unity']
     }
   ];
 

@@ -27,7 +27,7 @@ const Education = () => {
     },
     {
       name: 'Linux System Administration',
-      issuer: 'Practical Experience',
+      issuer: 'Operating System',
       year: '2024',
       skills: ['Ubuntu', 'Arch Linux', 'Shell Scripting']
     },
@@ -36,6 +36,18 @@ const Education = () => {
       issuer: 'Project-based Learning',
       year: '2025',
       skills: ['React.js', 'Node.js', 'RESTful APIs']
+    },
+    {
+      name: 'Cloud Computing Basics',
+      issuer: 'Certified Course',
+      year: '2024',
+      skills: ['Ubuntu', 'AWS', 'Azure', 'Docker', 'GCP']
+    },
+    {
+      name: 'Game Development Basics',
+      issuer: 'Certified Course',
+      year: '2024',
+      skills: ['C++', 'SFML', 'Unreal Engine', 'Unity']
     }
   ];
 

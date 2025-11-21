@@ -33,7 +33,7 @@ const Resume = () => {
         <div className="resume-viewer">
           {!pdfError ? (
             <iframe
-              src="/resume.pdf"
+              src="/assets/documents/Resume.pdf"
               title="Rohith R Resume"
               className="pdf-viewer"
               onError={handlePdfError}
